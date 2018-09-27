@@ -4,3 +4,5 @@ Sentiment Analysis done on movie reviews data using different Machine Learning M
 First file is an LSTM model with all details of the layers given in the Jupyter NB itself.
 
 Second file has implementations of MultiClass Naive Bayes, Liner Regression and Decision Trees which give us a lower accuracy compared to LSTM model.
+
+Train data is only a small subset due to size contraints.
